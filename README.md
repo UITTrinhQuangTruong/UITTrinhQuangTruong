@@ -2,7 +2,7 @@
 
 [![header](img/header.png)](http://trinhquangtruong.xyz)
 ### Hello world 👋,
-
+My name is Truong. I'm a final-year student of Computer Science at the University of Information Technology, VietNam. 
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=743081)
